@@ -1,3 +1,51 @@
 body {
-    color: hotpink;
+    color: #333; /* Normal text color */
+}
+
+.logo {
+    width: 100px; /* Adjust as needed */
+    height: auto;
+    border-radius: 8px; /* Rounded corners for logo */
+}
+
+.title {
+    color: orange; /* Orange color for title */
+}
+
+.tagline {
+    color: grey; /* Grey color for tagline */
+    font-family: 'Cursive', sans-serif; /* Decorative font for tagline */
+}
+
+.motto {
+    color: grey; /* Grey color for motto */
+}
+
+.menu-item {
+    margin-bottom: 20px; /* Spacing between menu items */
+}
+
+.menu-image {
+    width: 100%; /* Adjust to fit */
+    height: auto;
+    border-radius: 8px; /* Rounded corners for images */
+}
+
+.item-title {
+    font-size: 1.25em; /* Slightly larger font size for titles */
+}
+
+.item-description {
+    font-size: 1em; /* Regular font size for descriptions */
+}
+
+.item-price {
+    font-size: 0.85em; /* Smaller font size for prices */
+}
+
+.buy-button {
+    border-radius: 50%; /* Round buttons */
+    background-color: #FFD700; /* Different background color */
+    border: none;
+    padding: 10px 20px; /* Adjust as needed for size */
 }
