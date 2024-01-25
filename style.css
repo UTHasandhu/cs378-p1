@@ -5,20 +5,27 @@ body {
 .logo {
     width: 100px;
     height: auto;
-    border-radius: 5%;
+    border-radius: 15%;
+    margin-bottom: 10px;
 }
 
 .title {
     color: grey;
+    font-weight: bold;
 }
 
 .tagline {
     color: orange;
-    font-family: 'Brush Script MT', cursive;; 
+    font-family: 'Brush Script MT', cursive;
+    font-weight: normal;
+    margin-bottom: 0;
 }
 
 .motto {
     color: grey;
+    font-size: x-large;
+    font-weight: bolder;
+    margin-bottom: 30px;
 }
 
 .menu-item {
@@ -29,21 +36,24 @@ body {
 .menu-image {
     width: 100%;
     height: auto;
-    border-radius: 5%;
+    border-radius: 10%;
 }
 
 .item-title {
     font-size: 1.1em;
+    font-weight: bold
 }
 
 .item-description {
     font-size: 0.85em;
+    font-weight: normal;
+    color: gray;
 }
 
 .item-price {
     font-size: 0.75em;
+    font-weight: bolder;
     margin-bottom: 0;
-    
 }
 
 .buy-button {
