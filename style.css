@@ -44,8 +44,9 @@ body {
 }
 
 .buy-button {
-    border-radius: 50%; /* Round buttons */
-    background-color: #FFD700; /* Different background color */
+    border-radius: 90%; /* Round buttons */
+    background-color: #b9bbba;
+    color: antiquewhite;
     border: none;
-    padding: 10px 20px; /* Adjust as needed for size */
+    padding: 2px 7px; /* Adjust as needed for size */
 }
